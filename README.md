@@ -1,11 +1,12 @@
 # my_secure_photobook
 ##Details
+```
 Framework used: Vue JS with Vuetify 
 Database: Firestore (Firebase)
 File storage:  Firebase Storage
 Authentication: Firesbase Authentication
 Hosting: Firebase Hosting
-
+```
 ## Project setup
 ```
 yarn install
